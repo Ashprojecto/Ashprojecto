@@ -10,9 +10,7 @@
 ### 🌐 Connect with me
 
 <p align="left">
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/></a>
+<a href="https://www.linkedin.com/in/ashish-sanjiv/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
 ---
@@ -52,19 +50,15 @@
 
 ---
 
-### 🐍 Contribution Snake
 
-![snake gif](https://github.com/Ashprojecto/Ashprojecto/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ### ⭐ Featured Projects
 
-#### 🚀 Focus Hub
+#### 🚀 Focus Hub(in progress)
 Productivity web app for managing focus sessions and tasks.
 
 Tech:
-Next.js • TypeScript • MongoDB
+Next.js • TypeScript • Prisma
 
 #### 🍳 Recipe Suggester
 Find recipes based on available ingredients.
